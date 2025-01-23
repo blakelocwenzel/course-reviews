@@ -6,11 +6,11 @@
       <li class="attribute"> Decision Structures and Loops</li>
       <li class="attribute"> Arrays and ArrayLists</li>
     </ul>
-    <p class="attribute">Difficulty: 5/5</p>
+    <p class="attribute">Difficulty: 4/5</p>
     <p class="attribute">Learned a lot: 5/5</p>
     <p class="attribute">Enjoyed course: 4/5</p>
     <p class="attribute">Timely grading: 3/5</p>
-    <p class="attribute">Fitting concentrations: java, mainframe computing, cs</p>
+    <p class="attribute">Fitting concentrations: java, mainframe computing</p>
   </div>
   
   <div class="review">
@@ -40,7 +40,7 @@
     <p class="attribute">Learned a lot: 4/5</p>
     <p class="attribute">Enjoyed course: 5/5</p>
     <p class="attribute">Timely grading: 5/5</p>
-    <p class="attribute">Fitting concentrations: altair, predictive analytics </p>
+    <p class="attribute">Fitting concentrations: rapidminer, predictive analytics </p>
   </div>
 
   <div class="review">
