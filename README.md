@@ -32,7 +32,7 @@
     <h2>dsci4520 (fall 2024) - intro to data mining</h2>
     <p>Covered material:</p>
     <ul class="attributes">
-      <li class="attribute"> Exploratory Data Analysis</li>
+      <li class="attribute"> Data Analysis</li>
       <li class="attribute"> Linear Regression</li>
       <li class="attribute"> Clustering</li>
     </ul>
