@@ -1,5 +1,5 @@
  <div class="review">
-    <h2>bcis3630 (fall 2024) - object-oriented programming</h2>
+    <h2>bcis3630 (fall 2024) - object oriented programming</h2>
     <p>Covered material:</p>
     <ul class="attributes">
       <li class="attribute"> Polymorphism</li>
